@@ -14,5 +14,5 @@ I aimed to have my application be self explanatory. Each prompt explains the exa
 
 The space bar will not be required in entry. I did this to make testing easier. The formats for entry are given in the prompts.  
 
-Although not thoroughly tested, my application fits all criteria asked in the project description. 
-
+Using the provided database file and following the promopts will produce desired results, edge cases and possible erros may occur.  
+ 
