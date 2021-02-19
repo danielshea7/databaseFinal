@@ -1,3 +1,6 @@
+//this file allows for connection to configured DB. 
+//if there is no successful connection, the system will print errror msg.
+
 import java.sql.*;
 
 //connect to database class
