@@ -1,0 +1,15 @@
+READ ME FILE 
+
+DANIEL SHEA 01717794
+
+DATABASE FINAL PROJECT
+
+My application is not a looping menu, so multiple actions cannot be done in one instance of running the program.
+The application will need to be run for as many times as things need to be done. This was for simplicity and fits to the project requirements.
+
+I aimed to have my application be self explanatory. Each prompt explains the exact format needed to continue. 
+
+The space bar will not be required in entry. I did this to make testing easier. The formats for entry are given in the prompts.  
+
+Although not thoroughly tested, my application fits all criteria asked in the project description. 
+
