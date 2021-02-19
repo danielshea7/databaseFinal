@@ -1,8 +1,11 @@
-READ ME FILE 
 
-DANIEL SHEA 01717794
+DANIEL SHEA 017*****
 
 DATABASE FINAL PROJECT
+
+THIS APPLICATION CONNECTS TO AN SQLite DATABASE AND ALLOWS THE USER TO PERFORM MULTIPLE ACTIONS SUCH AS ADD ACCIDENT, SEARCH ACCIDENTS, AND RETRIEVE ACCIDENT DATA. 
+
+DATABASEFINAL.JAVA IS WERE MOST OF THE MEANINGFUL CODE IS. THE SQLite WOULD NEED TO BE CONFIG TO YOUR MACHINE TO TEST.
 
 My application is not a looping menu, so multiple actions cannot be done in one instance of running the program.
 The application will need to be run for as many times as things need to be done. This was for simplicity and fits to the project requirements.
