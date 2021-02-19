@@ -1,6 +1,6 @@
 //This is the main class and should be run to test the program
 //There is a readme file provided with this application 
-//DANIEL SHEA 01717794 
+//DANIEL SHEA 017
 //Databases Final Project
 
 import java.sql.*;
